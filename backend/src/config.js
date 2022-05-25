@@ -7,7 +7,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "ghetto-goblins";
+const namePrefix = "Gh3ttoGoblins";
 const description = "WARNING: An army of Green Greedy Bastards are deploying to the metaverse ";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
