@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
+const contractAddress = ""; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Gh3ttoGoblins NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Welcome to the Gh3ttoGoblins NFT Army. This NFT collection is a nft Army with really Greedy goblins, who will plounder the whole metaverse. The first 2000 nft owners will be whitelisted for the next mint. The next mint date will be announced on our social-media chanels. This collection wil be continued in a new project for the gh3ttogoblins. The first earnings of the project wil be moved in to the organisation of this project, to make the brand bigger and produce more NFTs for in the future, but also for better development of the website and to make the community stronger by giveaways etc. "Btw!!" This whole project is started by one student with zero knoledge for building an NFT collection, with as target to see what people want to give an Ghetto-Goblin NFT. I make sure and i promise to the army that there will be no intentions for scammery on this project. All other scam massages who are involved with this project will be deleted and be blocked. Lets start the project and find out what we can reach!"';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
@@ -19,7 +19,7 @@ const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your NFT";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const mint_failed = "Minting failed. Please try again.";
 
 const abi = [
   {
